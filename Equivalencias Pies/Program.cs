@@ -5,7 +5,7 @@ decimal Pulgada = pies * 12;
 decimal Yarda = pies / 3;
 decimal Centimetro = Pulgada * 2.54m;
 decimal Metro = Centimetro / 100;
-Console.WriteLine("Equvalencias: ");
+Console.WriteLine("Equivalencias: ");
 Console.WriteLine($"Pies ingresados: {pies} pies");
 Console.WriteLine($"Equivalente en pulgadas: {Pulgada} pulgadas");
 Console.WriteLine($"Equivalente en yardas: {Yarda} yardas");
