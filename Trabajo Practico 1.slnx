@@ -3,6 +3,7 @@
   <Project Path="Cotización Terreno/Cotización Terreno.csproj" />
   <Project Path="Equivalencias Horas/Equivalencias Horas.csproj" />
   <Project Path="Estadística Enteros/Estadística Enteros.csproj" />
+  <Project Path="Facturación/Facturación.csproj" />
   <Project Path="Grados Fahrenheit/Grados Fahrenheit.csproj" />
   <Project Path="Hello World!/Hello World!.csproj" />
   <Project Path="Velocidad De La Luz/Velocidad De La Luz.csproj" />
