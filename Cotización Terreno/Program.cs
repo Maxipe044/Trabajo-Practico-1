@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Cotización Terreno");
+Console.WriteLine("Ingrese el valor en metros de la longitud de su terreno: ");
+decimal longitud = decimal.Parse(Console.ReadLine());
+Console.WriteLine("Ingrese el valor en metros de la anchura de su terreno: ");
+decimal anchura = decimal.Parse(Console.ReadLine());
+Console.WriteLine("Ingrese el valor del terreno por metro cuadrado: ");
+decimal ValorMetroCuadrado = decimal.Parse(Console.ReadLine());
+decimal area = longitud * anchura;
+decimal valorTotal = area * ValorMetroCuadrado;
+Console.WriteLine($"El valor total de su terreno es: {valorTotal}");
