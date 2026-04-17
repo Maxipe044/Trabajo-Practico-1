@@ -1,0 +1,10 @@
+﻿Console.WriteLine("Equivalencias de Horas");
+Console.Write("Ingrese una cantidad de horas: ");
+decimal horas = decimal.Parse(Console.ReadLine());
+decimal dias = horas / 24;
+decimal minutos = horas * 60;
+decimal segundos = horas * 3600;
+Console.WriteLine($"Horas ingresadas: {horas} horas");
+Console.WriteLine($"Equivalente en días:    {dias} días");
+Console.WriteLine($"Equivalente en minutos: {minutos} minutos");
+Console.WriteLine($"Equivalente en segundos:{segundos} segundos");
