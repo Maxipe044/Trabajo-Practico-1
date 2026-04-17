@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Grados Fahrenheit/Grados Fahrenheit.csproj" />
+  <Project Path="Hello World!/Hello World!.csproj" />
+  <Project Path="Velocidad De La Luz/Velocidad De La Luz.csproj" />
+</Solution>
