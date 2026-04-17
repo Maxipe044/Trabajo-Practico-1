@@ -1,0 +1,14 @@
+﻿Console.WriteLine("Estadística Enteros");
+Console.WriteLine("Introduce 4 números enteros: ");
+Console.Write("Primer número: ");
+int numero1 = int.Parse(Console.ReadLine());
+Console.Write("Segundo número: ");
+int numero2 = int.Parse(Console.ReadLine());
+Console.Write("Tercer número: ");
+int numero3 = int.Parse(Console.ReadLine());
+Console.Write("Cuarto número: ");
+int numero4 = int.Parse(Console.ReadLine());
+int suma = numero1 + numero2 + numero3 + numero4;
+int promedio = suma / 4;
+Console.WriteLine($"La suma de los números es: {suma}");
+Console.WriteLine($"El promedio de los números es: {promedio}");
