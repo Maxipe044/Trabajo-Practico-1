@@ -11,7 +11,7 @@ if (num2 == 0)
 int cociente = num1 / num2;
 int resto = num1 % num2;
 double divisionReal = (double)num1 / num2;
-Console.WriteLine("Resultados:");
+Console.WriteLine("Resultados de division:");
 Console.WriteLine($"Cociente: {cociente}");
 Console.WriteLine($"Resto: {resto}");
 Console.WriteLine($"División real: {divisionReal}");
