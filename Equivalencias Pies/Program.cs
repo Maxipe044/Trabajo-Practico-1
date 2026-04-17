@@ -1,0 +1,13 @@
+﻿Console.WriteLine("Equivalencias Pies");
+Console.Write("Ingrese una distancia en pies: ");
+decimal pies = decimal.Parse(Console.ReadLine());
+decimal Pulgada = pies * 12;
+decimal Yarda = pies / 3;
+decimal Centimetro = Pulgada * 2.54m;
+decimal Metro = Centimetro / 100;
+Console.WriteLine("Equvalencias: ");
+Console.WriteLine($"Pies ingresados: {pies} pies");
+Console.WriteLine($"Equivalente en pulgadas: {Pulgada} pulgadas");
+Console.WriteLine($"Equivalente en yardas: {Yarda} yardas");
+Console.WriteLine($"Equivalente en centímetros: {Centimetro} cm");
+Console.WriteLine($"Equivalente en metros: {Metro} m");
