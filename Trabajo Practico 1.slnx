@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="Cotización Dólar/Cotización Dólar.csproj" />
   <Project Path="Cotización Terreno/Cotización Terreno.csproj" />
+  <Project Path="División Entera/División Entera.csproj" />
   <Project Path="Equivalencias Horas/Equivalencias Horas.csproj" />
   <Project Path="Equivalencias Pies/Equivalencias Pies.csproj" />
   <Project Path="Estadística Enteros/Estadística Enteros.csproj" />
